@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julia</h1>
-<h3 align="center">A passionate full-stack developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/juliathomas](https://troopl.com/juliathomas)
-
-- 📫 How to reach me **juliathomas@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
